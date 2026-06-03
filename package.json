@@ -1,0 +1,26 @@
+{
+  "name": "projeto-algueis-de-casas---api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Cleber-0101/Projeto-Rest-Api---Alugueis-de-casa-#readme",
+  "bugs": {
+    "url": "https://github.com/Cleber-0101/Projeto-Rest-Api---Alugueis-de-casa-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cleber-0101/Projeto-Rest-Api---Alugueis-de-casa-.git"
+  },
+  "license": "ISC",
+  "author": "Cleber Batista",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "sequelize": "^6.37.8"
+  }
+}
