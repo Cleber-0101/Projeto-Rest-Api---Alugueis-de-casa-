@@ -1,6 +1,3 @@
-# Projeto-Rest-Api Alugueis de casa
-
-
 # Projeto API de Aluguéis de Casa
 
 ## 📖 Sobre o Projeto
