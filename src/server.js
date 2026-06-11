@@ -1,4 +1,4 @@
-// configurando servidro
-const app = require('./app')
+// configurando servid
+import app from './app';
 
 app.listen(5000);

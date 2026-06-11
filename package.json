@@ -1,7 +1,7 @@
 {
   "name": "projeto-algueis-de-casas---api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto de estudos de node",
   "homepage": "https://github.com/Cleber-0101/Projeto-Rest-Api---Alugueis-de-casa-#readme",
   "bugs": {
     "url": "https://github.com/Cleber-0101/Projeto-Rest-Api---Alugueis-de-casa-/issues"
@@ -23,5 +23,8 @@
     "express": "^5.2.1",
     "nodemon": "^3.1.14",
     "sequelize": "^6.37.8"
+  },
+  "devDependencies": {
+    "sucrase": "^3.35.1"
   }
 }
