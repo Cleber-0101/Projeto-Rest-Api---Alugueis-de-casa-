@@ -1,6 +1,6 @@
 // criando classes
 import express from 'express';
-import rotas from './rotas';
+import rotas from './rotas.js';
 
 class App {
     //metodos que é chamado automaticamente quando a Classe é instanciada 

@@ -13,9 +13,9 @@
   "license": "ISC",
   "author": "Cleber Batista",
   "type": "commonjs",
-  "main": " app.js",
+  "main": "src/app.js",
   "scripts": {
-    "dev": "nodemon app.js",
+    "dev": "nodemon src/server.js",
     "start": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

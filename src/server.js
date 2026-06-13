@@ -1,4 +1,4 @@
 // configurando servid
-import app from './app';
+import app from './app.js';
 
 app.listen(5000);
